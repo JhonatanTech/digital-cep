@@ -1,0 +1,22 @@
+{
+    "name": "jhonatan/digital-cep",
+    "description": "Consulta de CEP online",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Jhonatan\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhonatan Carvalho",
+            "email": "jhonatancarvalhotorres12@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
